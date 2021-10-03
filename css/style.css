@@ -450,6 +450,7 @@ body.active {
     min-width: 260px;
     height: 478px;
     background-image: url("https://github.com/AlbertRus02/Portfolio/blob/main/img/BSPP2266MainPhotoMin.png?raw=true");
+    background-position: 0 0;
     background-size: cover;
   }
   .head-center {
@@ -552,6 +553,7 @@ body.active {
     min-width: 230px;
     height: 478px;
     background-image: url("https://github.com/AlbertRus02/Portfolio/blob/main/img/BSPP2266MainPhotoMin.png?raw=true");
+    background-position: 0 0;
     background-size: cover;
   }
   .head-center {
