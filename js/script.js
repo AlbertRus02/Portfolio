@@ -257,7 +257,7 @@ function menu_navigation(nav){
     const windowHeight = document.documentElement.scrollHeight;
     console.log(windowHeight)
     
-    if(windowHeight == 4705)
+    if(windowHeight == 4705 || windowHeight == 4726)
     {
         menu_navigation_full(nav)
     }else{
