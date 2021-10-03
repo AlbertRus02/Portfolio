@@ -449,7 +449,7 @@ body.active {
   .head-photo {
     min-width: 260px;
     height: 478px;
-    background-image: url("/img/BSPP2266MainPhotoMin.png");
+    background-image: url("https://github.com/AlbertRus02/Portfolio/blob/main/img/BSPP2266MainPhotoMin.png?raw=true");
     background-size: cover;
   }
   .head-center {
